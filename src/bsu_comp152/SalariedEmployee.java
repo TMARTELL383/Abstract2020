@@ -22,5 +22,4 @@ public class SalariedEmployee extends Employee implements Logger{
 }
 
 
-//We want to make sure a function is not overridden.
 //Interfaces = promise of functionality
